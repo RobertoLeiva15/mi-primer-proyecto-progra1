@@ -1,0 +1,5 @@
+i. Aprendí cómo funciona el flujo de trabajo con Git y GitHub, cómo crear repositorios, hacer commits, crear ramas, fusionarlas y subir cambios al repositorio remoto.
+
+ii. La experiencia fue muy buena porque pude practicar paso a paso los comandos. No trabajé en pareja, pero aprendí cómo se podrían resolver conflictos si dos personas modifican el mismo archivo.
+
+iii. Una de las ventajas de Git es que permite llevar control de versiones, trabajar en equipo mediante ramas, resolver conflictos y mantener un historial claro de cambios en el proyecto.
